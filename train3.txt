@@ -118,3 +118,12 @@ aerial/DJI_0005-0041.jpg
 aerial/DJI_0005-0186.jpg
 aerial/DJI_0005-0165.jpg
 aerial/MunichStreet02-MOS82.png
+aerial/DJI-00760-00001.jpg
+aerial/DJI-00760-00003.jpg
+aerial/DJI-00760-00013.jpg
+aerial/DJI-00760-00014.jpg
+aerial/DJI-00760-00022.jpg
+aerial/DJI-00760-00023.jpg
+aerial/DJI-00760-00033.jpg
+aerial/DJI-00760-00039.jpg
+

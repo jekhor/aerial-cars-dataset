@@ -126,3 +126,9 @@ aerial/DJI-00760-00022.jpg
 aerial/DJI-00760-00023.jpg
 aerial/DJI-00760-00033.jpg
 aerial/DJI-00760-00039.jpg
+aerial/DJI_0762-00003.txt
+aerial/DJI_0762-00013.txt
+aerial/DJI_0762-00021.txt
+aerial/DJI_0762-00024.txt
+aerial/DJI_0762-00031.txt
+aerial/DJI_0762-00032.txt
